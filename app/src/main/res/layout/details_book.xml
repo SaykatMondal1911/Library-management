@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF03DAC5"
+    android:orientation="vertical"
+    tools:context=".detailsBook">
+
+    <ImageView
+        android:id="@+id/detailsBooksImageViewId"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="fitXY"
+        android:src="@mipmap/ic_launcher"
+        >
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/detailsBooksTextViewId"
+        android:layout_marginTop="0dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:text="Hello"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="270dp">
+
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/purple_200"
+        android:gravity="center_vertical|center_horizontal"
+        android:padding="40dp">
+
+        <Button
+            android:id="@+id/detailsBooksAddButtonId"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@drawable/round_bg"
+            android:text="Request"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold">
+
+        </Button>
+
+        <Button
+            android:id="@+id/detailsBooksCancleButtonId"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginStart="50dp"
+            android:background="@drawable/round_bg"
+            android:text="Cancle"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold">
+
+        </Button>
+
+    </LinearLayout>
+
+</LinearLayout>

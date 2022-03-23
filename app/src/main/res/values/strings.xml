@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">SDP</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="login">LOGIN</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="or">OR</string>
+    <string name="google_icon">google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="alraedy_have_account">Already Have Account? Sign In Now</string>
+
+
+    <string-array name="roles_array">
+        <item>User</item>
+        <item>Admin</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="book_names">
+        <item>Bangla</item>
+        <item>English</item>
+        <item>Chemistry</item>
+        <item>Physics</item>
+        <item>Mathematics</item>
+        <item>Java</item>
+        <item>C language</item>
+        <item>JavaScript</item>
+        <item>Python</item>
+        <item>Bangla part2</item>
+        <item>English part2</item>
+        <item>Chemistry part2</item>
+        <item>Physics part2</item>
+        <item>Mathematics part2</item>
+        <item>Java part2</item>
+        <item>C language part2</item>
+        <item>JavaScript part2</item>
+        <item>Python part2</item>
+        <item>Chemistry part3</item>
+        <item>Physics part3</item>
+        <item>Mathematics part3</item>
+        <item>Java part3</item>
+        <item>C language part3</item>
+        <item>JavaScript part3</item>
+        <item>Python part3</item>
+    </string-array>
+
+    <string-array name="book_descriptions">
+        <item>Rabindranath</item>
+        <item>Harry Potter</item>
+        <item>Hajari</item>
+        <item>Shajahan</item>
+        <item>Ketab Uddin</item>
+        <item>Head first</item>
+        <item>Ancsi C</item>
+        <item>Oracol</item>
+        <item>Anaconda</item>
+        <item>Rabindranath 2</item>
+        <item>Harry Potter 2</item>
+        <item>Hajari 2</item>
+        <item>Shajahan 2</item>
+        <item>Ketab Uddin 2</item>
+        <item>Head first 2</item>
+        <item>Ancsi C 2</item>
+        <item>Oracol 2</item>
+        <item>Anaconda 2</item>
+        <item>Hajari 3</item>
+        <item>Shajahan 3</item>
+        <item>Ketab Uddin 3</item>
+        <item>Head first 3</item>
+        <item>Ancsi C 3</item>
+        <item>Oracol 3</item>
+        <item>Anaconda 3</item>
+    </string-array>
+
+
+</resources>
